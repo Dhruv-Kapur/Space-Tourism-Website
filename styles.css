@@ -1,13 +1,24 @@
 .section1 {
    	background-image: url('images/earth-img-1.jpg');
    	background-size: cover;
-   	height: 900px;
+   	height: 600px;
 }
+
+.section2 {
+	height: 600px;
 
 .antonio {
 	font-family: "Antonio", sans-serif;
 }
 
+.anton {
+	font-family: "Anton", sans-serif;
+}
+
 .float_r {
 	float: right;
+}
+
+.float_l {
+	float: left;
 }
